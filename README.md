@@ -1,2 +1,2 @@
 # Habit-tracker-app
-This is Habbit tracker app creted with dart language on flutter frame work
+This is Habbit tracker app created with dart language on flutter frame work
